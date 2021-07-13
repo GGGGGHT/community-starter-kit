@@ -1,10 +1,10 @@
 # welcome bot: A Probot App
 
-DESCRIPTION PLACEHOLDER
+Somethings 
 
 ## What it does
 
-FEATURES PLACEHOLDER
+change...
 
 ## Getting started
 
@@ -53,3 +53,4 @@ If you need help using this app, we encourage you to:
 ## Project maintainers
 
 This project is maintained by Monalisa Octocat and friends. Use of this project under the [MIT License](LICENSE.md).
+
